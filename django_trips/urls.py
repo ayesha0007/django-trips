@@ -5,3 +5,7 @@ urlpatterns = [
     path('', include('django_trips.api.urls')),
 
 ]
+
+
+
+
